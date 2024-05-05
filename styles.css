@@ -83,7 +83,7 @@ header {
 }
 
 
-/*@keyframes slideDown {
+@keyframes slideDown {
     0% {
         transform: translateY(-100%);
     }
@@ -91,7 +91,7 @@ header {
         transform: translateY(0%);
     }
 }
-*/
+
 .header_logo {
     height: 15px;
     margin-block: 1.5rem;
