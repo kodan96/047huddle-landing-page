@@ -82,7 +82,6 @@ header {
     animation-fill-mode: backwards;
 }
 
-
 @keyframes slideDown {
     0% {
         transform: translateY(-100%);
